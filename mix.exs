@@ -62,7 +62,7 @@ defmodule TestVixBurrito.MixProject do
       {:dns_cluster, "~> 0.2.0"},
       {:bandit, "~> 1.5"},
       {:burrito, github: "burrito-elixir/burrito"},
-      {:vix, "~> 0.35}
+      {:vix, "~> 0.35"}
     ]
   end
 
