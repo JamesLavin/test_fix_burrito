@@ -4,7 +4,7 @@ This is a vanilla Phoenix app with [vix](https://github.com/akash-akya/vix) and 
 
 I created this repo to debug why [vix](https://github.com/akash-akya/vix) compilation using [burrito](https://github.com/burrito-elixir/) fails.
 
-To replicate, install Elixir, install Zig 0.15.1, and download this repo.
+To replicate, [install Elixir](https://elixir-lang.org/install.html), [install Zig 0.15.1](https://ziglang.org/learn/getting-started/), and download this repo.
 
 Then run:
 
